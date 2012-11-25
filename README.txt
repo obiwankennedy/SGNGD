@@ -3,7 +3,7 @@
 *	SGNGD: Svg Gd is Not GD. v0.1
 *
 *	Author: Renaud Guezennec
-*	Web site: http://renaudguezennec.homelinux.org/
+*	Web site: http://www.renaudguezennec.eu/programmation,1-2.html
 *	
 *
 *
